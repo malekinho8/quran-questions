@@ -1,8 +1,9 @@
 
+```
 queryTitle: "Secular Technology, Justice, and Fairness in the Eyes of Allah"
 authorName: "Malek Ibrahim"
 queryDate: "2023-06-03"
----
+```
 
 ## Question
 How does God judge secular or atheistic scientists/entrepreneurs/leaders etc. that have done so much good for society, and whose creations are even used by many Muslims all around the world? How are the Muslims that use these technologies judged?
